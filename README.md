@@ -227,6 +227,5 @@ y el nodo ejecutable en `scripts/trajectory_node.py`.
   Universidad Nacional de Colombia, 2025.
 - ROS Wiki. *Writing a Publisher and Subscriber (Python)*.
   http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber(python)
-- Kobuki Team. *Kobuki User Guide*, 2017.
-  http://kobuki.yujinrobot.com
+
   
