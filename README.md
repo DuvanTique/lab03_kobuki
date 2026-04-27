@@ -211,6 +211,7 @@ y el nodo ejecutable en `scripts/trajectory_node.py`.
 
 ## 6. Evidencias
 
+[![Ver video](https://img.youtube.com/vi/xaudO_EUKN8/0.jpg)](https://youtu.be/xaudO_EUKN8)
 
 ---
 
