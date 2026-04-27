@@ -213,6 +213,12 @@ y el nodo ejecutable en `scripts/trajectory_node.py`.
 
 [![Ver video](https://img.youtube.com/vi/xaudO_EUKN8/0.jpg)](https://youtu.be/xaudO_EUKN8)
 
+![Prueba LED 1](Prueba_led.jpg)
+![Prueba LED 2](Prueba_led2.jpg)
+![Prueba LED 3](Prueba_led3.jpg)
+
+
+
 ---
 
 ## 7. Referencias
