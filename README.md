@@ -84,7 +84,7 @@ las responsabilidades en módulos independientes.
 
 #### Estructura del paquete
 
-![Estructura del Repo](Estructura_Paquete.png)
+![Estructura del Repo](EstructuraPaquete.png)
 
 #### Lógica de control implementada
 
