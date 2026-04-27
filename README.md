@@ -84,6 +84,8 @@ las responsabilidades en módulos independientes.
 
 #### Estructura del paquete
 
+![Estructura del Repo](Estructura_Paquete.png)
+
 #### Lógica de control implementada
 
 El nodo suscribe al tópico `/odom` para leer la posición y orientación
@@ -103,6 +105,8 @@ como parámetros de ROS.
 ---
 
 ## 2. Diagrama de flujo
+
+![Diagrama de flujo](diagrama_flujo_kobuki.svg)
 
 ---
 
@@ -198,7 +202,7 @@ y el nodo ejecutable en `scripts/trajectory_node.py`.
 
 | Archivo | Responsabilidad |
 |---------|----------------|
-| `trajectory_node.py` | Punto de entrada, orquesta los módulos |
+| `trajectory_node.py` | Punto de entrada |
 | `odom_subscriber.py` | Suscripción y lectura de `/odom` |
 | `velocity_publisher.py` | Publicación de comandos de velocidad |
 | `trajectory_controller.py` | Lógica de movimiento y control |
@@ -207,8 +211,6 @@ y el nodo ejecutable en `scripts/trajectory_node.py`.
 
 ## 6. Evidencias
 
-Las capturas de pantalla y videos de las pruebas se encuentran en
-la carpeta `evidencias/` del repositorio.
 
 ---
 
